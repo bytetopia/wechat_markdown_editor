@@ -8,27 +8,27 @@
     center
   >
     <div style="text-align: center">
-      <h3>一款高度简洁的微信 Markdown 编辑器</h3>
+      <h3>单机版微信公众号 Markdown 编辑器</h3>
     </div>
     <div style="text-align: center; margin-top: 10px">
-      <p>扫码关注我的公众号，原创技术文章第一时间推送！</p>
+      <p>本项目 fork 自 doocs/md</p>
+      <br/>
+      <hr/>
+      <br/>
+      <p>欢迎关注我的技术公众号</p>
       <img
-        src="https://gitee.com/yanglbme/resource/raw/master/doocs-md/qrcode.png"
-        style="width: 40%; display: block; margin: 20px auto 10px"
+        src="https://storage.dongxing.xin/shared/wx/qr_codemoments_banner.png"
+        style="width: 80%; display: block; margin: 20px auto 10px"
       />
+      <br/><br/>
+      <p>访问网站 <a href="https://dongxing.xin" target="_blank">https://dongxing.xin</a></p>
     </div>
     <span slot="footer" class="dialog-footer">
       <el-button
         type="primary"
-        @click="onRedirect('https://github.com/doocs/md')"
+        @click="onRedirect('https://github.com/bytetopia/wechat_markdown_editor')"
         plain
         >GitHub 仓库</el-button
-      >
-      <el-button
-        type="primary"
-        @click="onRedirect('https://gitee.com/doocs/md')"
-        plain
-        >Gitee 仓库</el-button
       >
     </span>
   </el-dialog>

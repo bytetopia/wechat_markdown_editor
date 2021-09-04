@@ -89,10 +89,10 @@ Google 拥有专门设计的系统，可以自动捕获不适当的预测结果�
 
 ---
 
-欢迎关注我的公众号“**Doocs开源社区**”，原创技术文章第一时间推送。
+欢迎关注公众号“**代码时刻**”，一起体会代码的乐趣。
 
 <center>
-    <img src="https://gitee.com/yanglbme/resource/raw/master/doocs-md/qrcode.png" style="width: 100px;">
+    <img src="https://storage.dongxing.xin/shared/wx/qr_codemoments_banner.png" style="padding:5%;width:90%;">
 </center>
 
 `;

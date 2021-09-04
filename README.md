@@ -6,6 +6,32 @@
 
 <h1 align="center">微信 Markdown 编辑器</h1>
 
+Forked from doocs/md
+
+## 本地开发和构建
+
+```
+npm install
+
+npm run build
+```
+
+dist 中的内容可用于部署。
+
+## 一些修改点
+
+1) 路径
+
+在 manifest.js 中， line 4 可以修改路径。默认路径都写成 /md/xxxx，在域名子目录下部署就会出错，所以这里可以根据自己情况修改。
+
+比如实际部署在  https://example.com/tools/md/ ，则这里可以写成 
+
+```
+manifest.h5.publicPath = "/tools/md/";
+```
+
+---
+
 <div align="center">
 
 [![sync status](https://github.com/doocs/md/workflows/Sync/badge.svg)](https://github.com/doocs/md/actions) [![deploy status](https://github.com/doocs/md/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/doocs/md/actions) [![prettier status](https://github.com/doocs/md/workflows/Prettier/badge.svg)](https://github.com/doocs/md/actions) [![users](https://badgen.net/badge/Who's/using/green)](#谁在使用) [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](../../pulls)<br> [![github](https://badgen.net/badge/⭐/GitHub/blue)](https://github.com/doocs/md) [![gitee](https://badgen.net/badge/⭐/Gitee/blue)](https://gitee.com/doocs/md) [![license](https://badgen.net/github/license/doocs/md)](./LICENSE) [![release](https://img.shields.io/github/v/release/doocs/md.svg)](../../releases)
