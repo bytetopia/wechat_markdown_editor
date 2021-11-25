@@ -15,13 +15,13 @@
       <br/>
       <hr/>
       <br/>
-      <p>欢迎关注我的技术公众号</p>
+      <p>欢迎关注公众号</p>
       <img
-        src="https://storage.dongxing.xin/shared/wx/qr_codemoments_banner.png"
+        src="https://s.idealland.app/shared/wx/qr_codemoments_banner.png"
         style="width: 80%; display: block; margin: 20px auto 10px"
       />
       <br/><br/>
-      <p>访问网站 <a href="https://dongxing.xin" target="_blank">https://dongxing.xin</a></p>
+      <p>访问网站 <a href="https://idealland.app" target="_blank">https://idealland.app</a></p>
     </div>
     <span slot="footer" class="dialog-footer">
       <el-button

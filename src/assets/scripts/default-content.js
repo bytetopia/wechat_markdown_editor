@@ -89,10 +89,10 @@ Google 拥有专门设计的系统，可以自动捕获不适当的预测结果�
 
 ---
 
-欢迎关注公众号“**代码时刻**”，一起体会代码的乐趣。
+欢迎关注公众号“**代码时刻**”。
 
 <center>
-    <img src="https://storage.dongxing.xin/shared/wx/qr_codemoments_banner.png" style="padding:5%;width:90%;">
+    <img src="https://s.idealland.app/shared/wx/qr_codemoments_banner.png" style="padding:5%;width:90%;">
 </center>
 
 `;

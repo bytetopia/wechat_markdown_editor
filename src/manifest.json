@@ -6,7 +6,7 @@
   "versionCode": "100",
   "transformPx": false,
   "h5": {
-    "publicPath": "/apps/wechatmd/"
+    "publicPath": "/wechatmd/"
   },
   "app-plus": {
     "usingComponents": true,
